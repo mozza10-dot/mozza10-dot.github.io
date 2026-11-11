@@ -6,7 +6,7 @@ A responsive, static portfolio in English. Open `index.html` to review it locall
 
 - `index.html`: profile, selected projects, seven-cohort project map, approach, experience, and contact
 - `archive.html`: searchable and filterable index of 45 documented projects and three labelled concept studies
-- `projects/`: six detailed case studies with personal roles and test status
+- `projects/`: 41 detailed case studies with personal roles and test status
 - `assets/`: project images, portrait, favicon, and downloadable CV
 - `styles.css` and `script.js`: visual design, mobile navigation, and archive filters
 
@@ -26,7 +26,7 @@ The downloadable CV is the supplied master CV and includes the owner's phone num
 
 The page copy is in the HTML files. Sitewide colors, typography, and layout are in `styles.css`. The mobile menu, archive search and filters, and automatic copyright year are in `script.js`.
 
-The five academic case studies link to their public GitHub project repositories. The Makeable enclosure case study links to the shared Drive design package. All 35 Makeable projects have individual entries linked to their public Drive evidence folder, or to the weekly archive where only a single ZIP package was available.
+The five academic case studies link to their public GitHub project repositories. All 35 Makeable projects have individual local case studies with evidence images hosted in `assets/`. The site contains no visitor-facing Google Drive links. The grouped Makeable enclosure study links to its five individual project records.
 
 Project headings follow the original Pamer.in titles where an exhibit exists. The pH title follows the supplied English PowerPoint portfolio: **IoT pH Monitoring**. Other academic headings also follow the presentation when no exhibit exists. “Makeable Pocket Devices” is a grouped case study; its five original project names appear separately in the archive.
 

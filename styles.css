@@ -356,3 +356,9 @@ section[id] { scroll-margin-top: 2rem; }
   html { scroll-behavior: auto; }
   *, *::before, *::after { transition-duration: .01ms !important; animation-duration: .01ms !important; }
 }
+
+/* Project previews in the complete archive */
+.archive-card-preview { width: 100%; height: 190px; object-fit: contain; padding: .45rem; margin-top: 1.3rem; background: #e5ebe4; border: 1px solid #d1d9d0; }
+.archive-card.has-preview h3 { margin-top: 1rem; }
+.archive-card.has-preview { min-height: 480px; }
+@media (max-width: 640px) { .archive-card-preview { height: 170px; } .archive-card.has-preview { min-height: 0; } }
