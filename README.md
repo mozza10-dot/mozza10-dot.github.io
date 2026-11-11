@@ -1,6 +1,6 @@
 # Atma Fathoni Moza — Portfolio Site
 
-A responsive, static portfolio in English. Open `index.html` to review it locally. The site needs no build step or external fonts, scripts, or services.
+A responsive, static portfolio in English with a restrained navy and steel-blue visual system. Open `index.html` to review it locally. The site needs no build step or external fonts, scripts, or services.
 
 ## Contents
 
