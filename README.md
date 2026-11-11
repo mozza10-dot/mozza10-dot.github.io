@@ -20,7 +20,7 @@ To publish as a personal site at `https://mozza10-dot.github.io/`:
 
 The site uses relative links, so it can also live in a project repository on GitHub Pages. The included `.nojekyll` keeps GitHub Pages from processing the files as a Jekyll site.
 
-The downloadable public CV replaces the personal phone number with the portfolio URL. The original master CV is kept outside this repository.
+The downloadable CV is the supplied master CV and includes the owner's phone number, as requested for the public site.
 
 ## Editing
 
