@@ -28,6 +28,6 @@ The page copy is in the HTML files. Sitewide colors, typography, and layout are 
 
 The five academic case studies link to their public GitHub project repositories. The Makeable enclosure case study links to the shared Drive design package. All 35 Makeable projects have individual entries linked to their public Drive evidence folder, or to the weekly archive where only a single ZIP package was available.
 
-Project headings follow the original Pamer.in titles where an exhibit exists. The pH title follows the supplied master CV and GitHub project README: **IoT pH Monitoring System**. Other academic headings follow the English PowerPoint portfolio. “Makeable Pocket Devices” is a grouped case study; its five original project names appear separately in the archive.
+Project headings follow the original Pamer.in titles where an exhibit exists. The pH title follows the supplied English PowerPoint portfolio: **IoT pH Monitoring**. Other academic headings also follow the presentation when no exhibit exists. “Makeable Pocket Devices” is a grouped case study; its five original project names appear separately in the archive.
 
 The Hardware Build Ideas entries began with the feasibility brief. Five now have firmware and wiring files in the supplied internship folder; these are labelled as implementation packages, without a physical build claim. Three remain concept studies. The November enclosure set has digital CAD checks, while slicing and physical fit remain pending according to its source README.
