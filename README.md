@@ -22,6 +22,8 @@ The site uses relative links, so it can also live in a project repository on Git
 
 The downloadable CV retains the owner's original visual style in a two-page layout, includes the corrected formal project titles, and includes the owner's phone number.
 
+The official internship placement is PT Kelola Insan Digital; the day-to-day startup work is with Neural Drive. The portfolio presents short-cycle IoT and control project studies at their documented stages, rather than implying one flagship product.
+
 ## Editing
 
 The page copy is in the HTML files. Sitewide colors, typography, and layout are in `styles.css`. The mobile menu, archive search and filters, and automatic copyright year are in `script.js`.
