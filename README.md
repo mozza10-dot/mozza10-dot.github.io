@@ -20,14 +20,14 @@ To publish as a personal site at `https://mozza10-dot.github.io/`:
 
 The site uses relative links, so it can also live in a project repository on GitHub Pages. The included `.nojekyll` keeps GitHub Pages from processing the files as a Jekyll site.
 
-The downloadable CV is the supplied master CV and includes the owner's phone number, as requested for the public site.
+The downloadable CV is the revised one-page electronics engineering CV and includes the owner's phone number.
 
 ## Editing
 
 The page copy is in the HTML files. Sitewide colors, typography, and layout are in `styles.css`. The mobile menu, archive search and filters, and automatic copyright year are in `script.js`.
 
-The five academic case studies link to their public GitHub project repositories. All 35 Makeable projects have individual local case studies with evidence images hosted in `assets/`. The site contains no visitor-facing Google Drive links. The grouped Makeable enclosure study links to its five individual project records.
+The four PBL case studies and one course mini project link to their public GitHub project repositories. All 35 Makeable projects have individual local case studies with evidence images hosted in `assets/`. The site contains no visitor-facing Google Drive links. The grouped Makeable enclosure study links to its five individual project records.
 
-Project headings follow the original Pamer.in titles where an exhibit exists. The pH title follows the supplied English PowerPoint portfolio: **IoT pH Monitoring**. Other academic headings also follow the presentation when no exhibit exists. “Makeable Pocket Devices” is a grouped case study; its five original project names appear separately in the archive.
+Project headings follow the original Pamer.in titles where an exhibit exists. GESTURA began as a semester 5 PBL project (September 2025–January 2026) and continued as a completed 2026 capstone. The pH project was a semester 2 mini project in 2024, separate from the internship. Other university headings follow the supplied presentation when no exhibit exists. “Makeable Pocket Devices” is a grouped case study; its five original project names appear separately in the archive.
 
 The Hardware Build Ideas entries began with the feasibility brief. Five now have firmware and wiring files in the supplied internship folder; these are labelled as implementation packages, without a physical build claim. Three remain concept studies. The November enclosure set has digital CAD checks, while slicing and physical fit remain pending according to its source README.
